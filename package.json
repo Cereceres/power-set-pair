@@ -1,0 +1,23 @@
+{
+  "name": "power-set-pair",
+  "version": "1.0.0",
+  "description": "iterate over a array to get all subsets",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cereceres/power-set-pair.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Cereceres/power-set-pair/issues"
+  },
+  "homepage": "https://github.com/Cereceres/power-set-pair#readme",
+  "dependencies": {
+    "npm": "^6.4.1"
+  }
+}
