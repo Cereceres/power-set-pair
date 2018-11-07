@@ -1,6 +1,6 @@
 {
   "name": "power-set-pair",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "iterate over a array to get all subsets",
   "main": "index.js",
   "scripts": {
